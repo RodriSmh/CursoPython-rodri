@@ -15,15 +15,17 @@ Tupla=("Rodrigo","27")
 #Tupla[1]="Alonso"
 print(Tupla)
 print(f"\n resultado de solo una parte de la tupla{Tupla[1]}\n")
-##conjunto
-print("3. Conjunto")
-conjunto={"hola"}
+#### conjunto 
+## los conjuntos se pueden redefinir por completo pero no se pueden modificar los elementos
+## tampoco puede mostrar duplicados
+print("\n3. Conjunto")
+conjunto={"hola", Tupla, "rodrigo"}
 
 print(conjunto)
-##diccionario
-print("4. Diccionario ")
+#### diccionario
+print("\n4. Diccionario ")
 diccionario={
     'nombre' : 'rodrigo',
     'apellido': 'paez'
 }
-print(diccionario["nombre"])
+print(diccionario["nombre"], diccionario["apellido"])
