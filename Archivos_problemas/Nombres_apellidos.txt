@@ -1,0 +1,16 @@
+los datos son:
+nombre: Juan
+apellido: Gomez
+--------------
+nombre: Pedro
+apellido: Lopez
+--------------
+nombre: Maria
+apellido: Martinez
+--------------
+nombre: Ana
+apellido: Hernandez
+--------------
+nombre: Luis
+apellido: Garcia
+--------------
