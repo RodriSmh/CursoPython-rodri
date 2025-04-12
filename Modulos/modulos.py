@@ -8,6 +8,6 @@ except ModuleNotFoundError:
 	print("Module 'Ejercicio_2_3' not found. Please ensure the file exists in the specified directory.")
 	sys.exit(1)
 print(funciones_buenas.modulos2.Saludar("Juan"))
-print(Ejercicio_2_3.fibonacci(20))
+print(Ejercicio_2_3.fibonacci(64))
 # print(type(saludar))
 # print(sys.path)
